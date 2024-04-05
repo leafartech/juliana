@@ -3,7 +3,7 @@ import Button from "./button";
 
 export default function Header() {
     return (
-        <header className="relative h-screen flex items-end sm:items-center justify-center px-4 sm:pb-0 pb-12 radial">
+        <header className="relative h-screen flex items-end sm:items-center justify-center px-4 sm:pb-0 pb-20 radial">
             <div className="sm:grid sm:grid-cols-2 sm:items-center w-full max-w-6xl">
                 <Image
                     src="/images/bg6.png"
