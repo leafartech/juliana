@@ -54,7 +54,7 @@ export default function Page() {
             <div className="text-center max-w-3xl flex flex-col gap-2">
               <p className="subheadline">Com <strong>mais de 17 anos de experiência</strong>, podemos transformar sua jornada previdenciária em uma experiência tranquila e bem-sucedida</p>
               <div className="flex justify-center">
-                <Button>Entre em contato agora <span className="sm:inline-block hidden">mesmo</span>!</Button>
+                <Button>Meu benefício aqui!</Button>
               </div>
             </div>
           </div>
@@ -80,7 +80,9 @@ export default function Page() {
                 <p className="text-xl text-zinc-200">Com nossa equipe ao seu lado, você não precisa enfrentar esses desafios sozinho. <strong>Nós entendemos sua situação e estamos aqui para fornecer a orientação especializada</strong> e o apoio necessário para garantir que você receba todos os <strong>benefícios do INSS aos quais tem direito</strong>.</p>
                 <p className="text-xl text-zinc-200">Não deixe que a preocupação e a confusão dominem sua vida. Entre em contato hoje mesmo e dê o primeiro passo em direção a um <strong>futuro seguro e protegido</strong>.</p>
               </div>
-              <Button>Entre em contato agora <span className="sm:inline-block hidden">mesmo</span>!</Button>
+              <div className="sm:max-w-sm w-full">
+                <Button>Meu benefício aqui!</Button>
+              </div>
             </div>
           </div>
         </Section>
@@ -101,7 +103,7 @@ export default function Page() {
               </ul>
               <p className="text-lg font-medium">Trabalhamos de forma clara e objetiva, sempre informando o andamento do seu processo, para que você tenha clareza e segurança, sentindo-se de fato bem assistido.</p>
               <div className="">
-                <Button>Entre em contato agora <span className="sm:inline-block hidden">mesmo</span>!</Button>
+                <Button>Meu benefício aqui!</Button>
               </div>
             </div>
           </Heroflex>
@@ -170,7 +172,7 @@ export default function Page() {
               <h4 className="text-3xl font-bold">Quem somos?</h4>
               <p className="subheadline">Meu nome é Juliana Iatskiu Furquim, sou advogada previdenciarista há 17 anos, e nosso escritório trabalha para conseguir o melhor benefício no menor tempo possível. </p>
               <p className="subheadline">Nosso escritório conta com um extenso corpo jurídico de advogados e bachareis, todos prontos para atendê-los.</p>
-              <Button>Entre em contato agora <span className="sm:inline-block hidden">mesmo</span>!</Button>
+              <Button>Meu benefício aqui!</Button>
             </div>
           </div>
         </Section>

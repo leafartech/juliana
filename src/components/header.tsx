@@ -34,10 +34,10 @@ export default function Header() {
                         />
                     </div>
                     <h1 className="text-white text-3xl xl:text-[42px] xl:leading-[2.8rem] font-semibold">Garanta seu benefício previdenciário de forma rápida e descomplicada</h1>
-                    <p className="text-white text-lg sm:text-xl">O INSS negou seu benefício ou você não sabe qual benefício tem direito? Com suporte especializado e personalizado, garantimos sua tranquilidade e satisfação na busca do seu benefício.</p>
+                    <p className="text-white text-lg sm:text-xl">O INSS negou seu benefício ou você não sabe qual benefício tem direito?</p>
                     <div className="">
                     </div>
-                    <Button>Entre em contato agora <span className="sm:inline-block hidden">mesmo</span>!</Button>
+                    <div className="max-w-sm w-full"><Button>Meu benefício aqui!</Button></div>
                 </div>
             </div>
         </header>
