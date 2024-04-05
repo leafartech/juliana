@@ -116,9 +116,14 @@ export default function Page() {
             </div>
             <div className="flex justify-center gap-4 flex-wrap max-w-4xl">
               <FloatItem>Pensão por Morte</FloatItem>
-              <FloatItem>Aposentadoria</FloatItem>
-              <FloatItem>Auxílio Doença</FloatItem>
-              <FloatItem>Benfício de Prestação Continuada</FloatItem>
+              <FloatItem>Aposentadoria por Idade</FloatItem>
+              <FloatItem>Aposentadoria por Tempo de Contribuição</FloatItem>
+              <FloatItem>Aposentadoria por Incapacidade Permanente (Ap. por Invalidez)</FloatItem>
+              <FloatItem>Auxílio por Incapacidade Temporária (Auxílio-doença)</FloatItem>
+              <FloatItem>Auxílio-acidente</FloatItem>
+              <FloatItem>Benefício de Prestação Continuada (BPC) - LOAS</FloatItem>
+              <FloatItem>Salário-maternidade</FloatItem>
+              <FloatItem>Auxílio-reclusão</FloatItem>
             </div>
           </div>
         </Section>

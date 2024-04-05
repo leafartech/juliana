@@ -8,6 +8,11 @@
   }
 }
 
+.radial {
+  background: rgb(51,88,128);
+  background: radial-gradient(circle, rgba(51,88,128,1) 0%, rgba(19,44,70,1) 75%, rgba(19,44,70,1) 100%);
+}
+
 .fp {
   font-family: 'Inter'
 }
