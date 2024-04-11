@@ -41,6 +41,7 @@ export default function Testmonials() {
                             className="rounded"
                             width={610}
                             height={241}
+                            layout="responsive"
                         />
                     </div>
                 </SwiperSlide>
@@ -52,6 +53,7 @@ export default function Testmonials() {
                             className="rounded"
                             width={610}
                             height={140}
+                            layout="responsive"
                         />
                     </div>
                 </SwiperSlide>
@@ -63,6 +65,7 @@ export default function Testmonials() {
                             className="rounded"
                             width={610}
                             height={320}
+                            layout="responsive"
                         />
                     </div>
                 </SwiperSlide>
@@ -74,6 +77,7 @@ export default function Testmonials() {
                             className="rounded"
                             width={610}
                             height={352}
+                            layout="responsive"
                         />
                     </div>
                 </SwiperSlide>
@@ -85,6 +89,7 @@ export default function Testmonials() {
                             className="rounded"
                             width={610}
                             height={424}
+                            layout="responsive"
                         />
                     </div>
                 </SwiperSlide>
@@ -96,6 +101,7 @@ export default function Testmonials() {
                             className="rounded"
                             width={610}
                             height={344}
+                            layout="responsive"
                         />
                     </div>
                 </SwiperSlide>
@@ -107,18 +113,20 @@ export default function Testmonials() {
                             className="rounded"
                             width={610}
                             height={273}
+                            layout="responsive"
                         />
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide pb-12 ">
                     <div className="w-full h-80 flex items-center overflow-hidden">
-                    <Image
-                    src="/images/test/8.png"
-                    alt="Depoimentos"
-                    className="rounded"
-                    width={610}
-                    height={244}
-                />
+                        <Image
+                            src="/images/test/8.png"
+                            alt="Depoimentos"
+                            className="rounded"
+                            width={610}
+                            height={244}
+                            layout="responsive"
+                        />
                     </div>
                 </SwiperSlide>
             </Swiper>
