@@ -172,6 +172,7 @@ export default function Team() {
                         <div className="pt-2 sm:pt-4 text-center h-36">
                             <h4 className="capitalize font-bold text-xl">Vitor Prado</h4>
                             <ul className="list-inside list-disc text-base font-medium">
+                                <li>OAB - 123.014 </li>
                                 <li>Advogado - Pós graduando em direito do trabalho e prática trabalhista</li>
                                 {/* <li></li> */}
                             </ul>
