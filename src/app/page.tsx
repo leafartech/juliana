@@ -178,6 +178,16 @@ export default function Page() {
               <p className="subheadline">Meu nome é Juliana Iatskiu Furquim, sou advogada previdenciarista há 17 anos, e nosso escritório trabalha para conseguir o melhor benefício no menor tempo possível. </p>
               <p className="subheadline">Nosso escritório conta com um extenso corpo jurídico de advogados e bachareis, todos prontos para atendê-los.</p>
               <Button>Meu benefício aqui!</Button>
+              <a href="https://www.instagram.com/juliana__furquim?igsh=MWpweHRlOW1iNnNrZQ==" target="_blank" className="flex items-center justify-center gap-1 max-h-12">
+                <Image
+                  src="/images/ig.png"
+                  alt="Logo do instagram"
+                  width={28}
+                  height={28}
+                  layout=""
+                />
+                <p className="text-lg font-medium underline text-blue-600 cursor-pointer">Clique aqui e venha nos acompanhar na instagram</p>
+              </a>
             </div>
           </div>
         </Section>
