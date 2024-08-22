@@ -41,8 +41,8 @@ export default function Team() {
                                 alt="Depoimentos"
                                 className="rounded"
                                 layout="responsive"
-                                width={462}
-                                height={265}
+                                width={465}
+                                height={310}
                             />
                         </div>
                         <div className="pt-2 sm:pt-4 text-center h-36">
@@ -61,8 +61,8 @@ export default function Team() {
                                 alt="Depoimentos"
                                 className="rounded"
                                 layout="responsive"
-                                width={462}
-                                height={265}
+                                width={465}
+                                height={310}
                             />
                         </div>
                         <div className="pt-2 sm:pt-4 text-center h-36">
@@ -82,8 +82,8 @@ export default function Team() {
                                 alt="Depoimentos"
                                 className="rounded"
                                 layout="responsive"
-                                width={462}
-                                height={265}
+                                width={465}
+                                height={310}
                             />
                         </div>
                         <div className="pt-2 sm:pt-4 text-center h-36">
@@ -103,8 +103,8 @@ export default function Team() {
                                 alt="Depoimentos"
                                 className="rounded"
                                 layout="responsive"
-                                width={462}
-                                height={265}
+                                width={465}
+                                height={310}
                             />
                         </div>
                         <div className="pt-2 sm:pt-4 text-center h-36">
@@ -123,8 +123,8 @@ export default function Team() {
                                 alt="Depoimentos"
                                 className="rounded"
                                 layout="responsive"
-                                width={462}
-                                height={265}
+                                width={465}
+                                height={310}
                             />
                         </div>
                         <div className="pt-2 sm:pt-4 text-center h-36">
@@ -144,8 +144,8 @@ export default function Team() {
                                 alt="Depoimentos"
                                 className="rounded"
                                 layout="responsive"
-                                width={462}
-                                height={265}
+                                width={465}
+                                height={310}
                             />
                         </div>
                         <div className="pt-2 sm:pt-4 text-center h-36">
@@ -165,8 +165,8 @@ export default function Team() {
                                 alt="Depoimentos"
                                 className="rounded"
                                 layout="responsive"
-                                width={462}
-                                height={265}
+                                width={465}
+                                height={310}
                             />
                         </div>
                         <div className="pt-2 sm:pt-4 text-center h-36">
@@ -175,6 +175,47 @@ export default function Team() {
                                 <li>OAB - 123.014 </li>
                                 <li>Advogado - Pós graduando em direito do trabalho e prática trabalhista</li>
                                 {/* <li></li> */}
+                            </ul>
+                        </div>
+                    </div>
+                </SwiperSlide>
+                <SwiperSlide className="swiper-slide sm:pb-12 ">
+                    <div className="swiper-div">
+                        <div className="relative">
+                            <Image
+                                src="/images/team/9.png"
+                                alt="Depoimentos"
+                                className="rounded"
+                                layout="responsive"
+                                width={465}
+                                height={310}
+                            />
+                        </div>
+                        <div className="pt-2 sm:pt-4 text-center h-36">
+                            <h4 className="capitalize font-bold text-xl">Nathalia Gaiarin Canedo Gomes</h4>
+                            <ul className="list-inside list-disc text-base font-medium">
+                                <li>Bacharel em Direito </li>
+                                <li>Pós Graduanda em Direito de Família e Sucessões.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </SwiperSlide>
+                <SwiperSlide className="swiper-slide sm:pb-12 ">
+                    <div className="swiper-div">
+                        <div className="relative">
+                            <Image
+                                src="/images/team/8.png"
+                                alt="Depoimentos"
+                                className="rounded"
+                                layout="responsive"
+                                width={465}
+                                height={310}
+                            />
+                        </div>
+                        <div className="pt-2 sm:pt-4 text-center h-36">
+                            <h4 className="capitalize font-bold text-xl">Ruaro Dominique Teodoro</h4>
+                            <ul className="list-inside list-disc text-base font-medium">
+                                <li>Gestor Comercial e Administrativo </li>
                             </ul>
                         </div>
                     </div>

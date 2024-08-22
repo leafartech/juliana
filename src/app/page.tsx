@@ -89,8 +89,8 @@ export default function Page() {
         <Section classNameS="py-12 sm:py-24">
           <Heroflex
             alt="Imagem da Equipe"
-            height={327}
-            width={327}
+            width={1200}
+            height={800}
             imagePath="bg4"
             imgClassName="rounded"
           >
