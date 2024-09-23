@@ -194,7 +194,7 @@ export default function Team() {
                         <div className="pt-2 sm:pt-4 text-center h-36">
                             <h4 className="capitalize font-bold text-xl">Nathalia Gaiarin Canedo Gomes</h4>
                             <ul className="list-inside list-disc text-base font-medium">
-                                <li>Bacharel em Direito </li>
+                                <li>OAB/PR - 107.113</li>
                                 <li>Pós Graduanda em Direito de Família e Sucessões.</li>
                             </ul>
                         </div>
